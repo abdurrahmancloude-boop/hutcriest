@@ -1,0 +1,6 @@
+{
+  "name": "Crust Hut",
+  "description": "Crust Hut offers pizza, pasta, sandwiches, wings and loaded sides in Satellite Town, Rawalpindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
